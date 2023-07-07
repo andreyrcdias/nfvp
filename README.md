@@ -5,7 +5,7 @@ Next-frame video prediction using Conv LSTM and Fully Connected LSTM.
 
 ## Quick start
 
-1. Create a virtual environment:
+1. Create a [virtual environment](https://docs.python.org/3/library/venv.html):
 ```bash
 python -m venv .venv
 ```
