@@ -1,9 +1,0 @@
-Conv_LSTM
-    1. 1000 of 10000 samples
-        5 batch size
-        5 epochs
-        129m 47.2s
-    2. 1000 of 10000 samples
-        5 batch size
-        10 epochs
-    
