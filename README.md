@@ -1,6 +1,6 @@
 ## Next-frame video prediction
 
-Next-frame video prediction using Conv LSTM and FC-LSTM.
+Next-frame video prediction using Conv LSTM and Fully Connected LSTM.
 
 
 ## Quick start
@@ -24,3 +24,16 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook
 ```
+
+
+## References
+
+- [Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting](https://arxiv.org/abs/1506.04214)
+- [Convolutional, Long Short-Term Memory, fully connected Deep Neural Networks](https://ieeexplore.ieee.org/abstract/document/7178838)
+- [Unsupervised Learning of Video Representations using LSTMs](https://arxiv.org/abs/1502.04681)
+
+
+## Dataset
+
+- [Moving MNIST](https://www.cs.toronto.edu/~nitish/unsupervised_video/)
+
