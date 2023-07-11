@@ -2,7 +2,7 @@
 
 > [WORK IN PROGRESS](TODO.md)
 
-Practicing some neural networks for Next-frame video prediction.
+Practicing some neural networks for Next-Frame Video Prediction.
 Discipline Multimedia Processing Systems - PGC302B UFU 2023/1.
 
 
@@ -31,6 +31,7 @@ jupyter notebook
 
 ## References
 
+- [Next-Frame Video Prediction with Convolutional LSTMs](https://keras.io/examples/vision/conv_lstm/)
 - [Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting](https://arxiv.org/abs/1506.04214)
 - [Convolutional, Long Short-Term Memory, fully connected Deep Neural Networks](https://ieeexplore.ieee.org/abstract/document/7178838)
 - [Unsupervised Learning of Video Representations using LSTMs](https://arxiv.org/abs/1502.04681)
@@ -41,3 +42,4 @@ jupyter notebook
 ## Dataset
 
 - [Moving MNIST](https://www.cs.toronto.edu/~nitish/unsupervised_video/)
+
