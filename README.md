@@ -1,7 +1,7 @@
 ## Next-frame video prediction
 
 Next-frame video prediction using Conv LSTM and Fully Connected LSTM
-for discipline Multimedia Multimedia Processing Systems - PGC302B UFU.
+for discipline Multimedia Processing Systems - PGC302B UFU.
 
 
 ## Quick start
