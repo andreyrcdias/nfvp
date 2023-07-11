@@ -1,9 +1,9 @@
 ## Next-frame video prediction
 
-> WORK IN PROGRESS
+> [WORK IN PROGRESS](TODO.md)
 
-Next-frame video prediction using Conv LSTM and Fully Connected LSTM
-for discipline Multimedia Processing Systems - PGC302B UFU.
+Practicing some neural networks for Next-frame video prediction.
+Discipline Multimedia Processing Systems - PGC302B UFU 2023/1.
 
 
 ## Quick start
