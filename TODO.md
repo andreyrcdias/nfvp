@@ -1,6 +1,6 @@
 # TODO
 
 - [x] ConvLSTM network
-- [ ] Implement at least another neural network
+- [ ] PredNet
 - [ ] Create proper metrics
 - [ ] Benchmark
