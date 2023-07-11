@@ -3,7 +3,8 @@
 > [WORK IN PROGRESS](TODO.md)
 
 Practicing some neural networks for Next-Frame Video Prediction.
-Discipline Multimedia Processing Systems - PGC302B UFU 2023/1.
+
+For the discipline of Multimedia Processing Systems (PGC302B) - 2023/1 UFU.
 
 
 ## Quick start
