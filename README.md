@@ -6,6 +6,25 @@ Practicing some neural networks for Next-Frame Video Prediction.
 
 For the discipline of Multimedia Processing Systems (PGC302B) - 2023/1 UFU.
 
+<table>
+  <tr>
+    <td>
+      <img src="assets/mmnist000001.gif" alt="GIF 1">
+    </td>
+    <td>
+      <img src="assets/mmnist000002.gif" alt="GIF 2">
+    </td>
+    <td>
+      <img src="assets/mmnist000003.gif" alt="GIF 3">
+    </td>
+    <td>
+      <img src="assets/mmnist000004.gif" alt="GIF 4">
+    </td>
+    <td>
+      <img src="assets/mmnist000005.gif" alt="GIF 5">
+    </td>
+  </tr>
+</table>
 
 ## Quick start
 

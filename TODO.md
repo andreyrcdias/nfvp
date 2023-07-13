@@ -1,6 +1,6 @@
 # TODO
 
-- [x] ConvLSTM network
-- [ ] PredNet
+- [x] ConvLSTM
+- [x] PredNet
 - [ ] Create proper metrics
 - [ ] Benchmark
