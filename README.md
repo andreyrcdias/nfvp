@@ -43,8 +43,10 @@ jupyter notebook
 
 - [x] [Moving MNIST](https://www.cs.toronto.edu/~nitish/unsupervised_video/)
 
-<img src="assets/mmnist000001.gif" alt="GIF 1">
-<img src="assets/mmnist000002.gif" alt="GIF 2">
-<img src="assets/mmnist000003.gif" alt="GIF 3">
-<img src="assets/mmnist000004.gif" alt="GIF 4">
-<img src="assets/mmnist000005.gif" alt="GIF 5">
+<!--
+    <img src="assets/mmnist000001.gif" alt="GIF 1">
+    <img src="assets/mmnist000002.gif" alt="GIF 2">
+    <img src="assets/mmnist000003.gif" alt="GIF 3">
+    <img src="assets/mmnist000004.gif" alt="GIF 4">
+    <img src="assets/mmnist000005.gif" alt="GIF 5">
+-->
