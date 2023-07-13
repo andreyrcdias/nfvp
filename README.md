@@ -31,12 +31,19 @@ jupyter notebook
 
 ## References
 
-- [Next-Frame Video Prediction with Convolutional LSTMs](https://keras.io/examples/vision/conv_lstm/)
-- [Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting](https://arxiv.org/abs/1506.04214)
-- [Convolutional, Long Short-Term Memory, fully connected Deep Neural Networks](https://ieeexplore.ieee.org/abstract/document/7178838)
-- [Unsupervised Learning of Video Representations using LSTMs](https://arxiv.org/abs/1502.04681)
-- [Deep Predictive Coding Networks For Video Prediction And Unsupervised Learning](https://arxiv.org/abs/1605.08104)
-- [Predictive coding in the visual cortex: a functional interpretation of some extra-classical receptive-field effects](https://www.nature.com/articles/nn0199_79)
+- [1][Next-Frame Video Prediction with Convolutional LSTMs](https://keras.io/examples/vision/conv_lstm/)
+- [2][Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting](https://arxiv.org/abs/1506.04214)
+- [3][Convolutional, Long Short-Term Memory, fully connected Deep Neural Networks](https://ieeexplore.ieee.org/abstract/document/7178838)
+- [4][Unsupervised Learning of Video Representations using LSTMs](https://arxiv.org/abs/1502.04681)
+- [5][Deep Predictive Coding Networks For Video Prediction And Unsupervised Learning](https://arxiv.org/abs/1605.08104)
+- [6][Predictive coding in the visual cortex: a functional interpretation of some extra-classical receptive-field effects](https://www.nature.com/articles/nn0199_79)
+
+
+## Networks models
+* [x] ConvLSTM [1],[2]
+* [x] PredNet [4]
+- [ ] Inception-inspired Based LSTM
+- [ ] Fully Connected LSTM
 
 
 ## Dataset
