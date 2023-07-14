@@ -57,3 +57,9 @@ jupyter notebook
     <img src="assets/mmnist000004.gif" alt="GIF 4">
     <img src="assets/mmnist000005.gif" alt="GIF 5">
 -->
+
+## Metrics
+- [ ] [PSNR](https://en.wikipedia.org/wiki/Peak_signal-to-noise_ratio)
+- [ ] [MSE](https://en.wikipedia.org/wiki/Mean_squared_error)
+- [ ] [SSIM](https://en.wikipedia.org/wiki/Structural_similarity)
+

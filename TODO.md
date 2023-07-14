@@ -2,5 +2,5 @@
 
 - [x] ConvLSTM
 - [x] PredNet
-- [ ] Create proper metrics
+- [ ] Create proper metrics (PSNR, MSE, SSIM, ...)
 - [ ] Benchmark
