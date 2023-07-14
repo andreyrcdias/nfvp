@@ -40,8 +40,8 @@ jupyter notebook
 
 
 ## Networks models
-* [x] ConvLSTM [1],[2]
-* [x] PredNet [4]
+- [x] ConvLSTM [1],[2]
+- [x] PredNet [4]
 - [ ] Inception-inspired Based LSTM
 - [ ] Fully Connected LSTM
 
